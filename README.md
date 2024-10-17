@@ -20,6 +20,7 @@ i'm just someone who loves to experiment with code, learn new things, and have f
 
 ### about me:
 i'm all about experimenting with code and having a good time while at it. i don't have a favorite language (yet) but i'm vibing with python and c#.
+
 ---
 
-feel free to check out my repos but don't judge me please :D
+feel free to check out my repos (though most repos might be private tbh) but don't judge me please :D
