@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b36445e4-f068-430d-b429-41bbfd130b4a)### hi there, i'm julian :)
+### hi there, i'm julian :)
 
 i'm someone who loves to experiment with code, learn new things, and have fun while doing it. i'm currently working on python and c# projects, and learning to use git along the way.
 
