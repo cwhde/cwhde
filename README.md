@@ -29,6 +29,7 @@ i'm someone who loves to experiment with code, learn new things, and have fun wh
 - nowadays i have a full homelab running proxmox with various linux lxc's and docker containers and a fully setup networking from local rerouting of traffic to hosting part's of my services on cloud platforms (hetzner, aws, oracle) or dedicated servers
 - although i do not have a particular interest in it, gaining so much experience trying to understand software and sysadmin stuff, i gained some basic knowledge regarding cybersecurity in the internet, learning to leverage cloudflare and other tools to secure my private services
 - even though i have little time, and there's not really any services i don't ahve yet, i still sometimes tinker with my homelab or my rack server i have lying under my bed
+- of course llm are very interesting, and before chatgpt was a thing and there was only the openai playground with text-davinci, i was already doing experiments with it, continuing to build agents or implement llm into various automations in python projects to this day
 - my interest in tech across all domains isn't fading any time soon and currently i'm trying to collect experience in software development (no webdev/gui software)
 
 ---
