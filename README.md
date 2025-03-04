@@ -46,4 +46,4 @@ i'm someone who loves to experiment with code, learn new things, and have fun wh
 
 feel free to check out my repos (though most repos might be private tbh) :D
 
-[logo of the anime tokyo ghoul, my favorite anime](https://i.namu.wiki/i/wdkE30hwP1AfyOaXh7HyV04janFyW6elSw-byNGdOzX0sYgoZ1L_dgACiRWnPbq3w95GoZC8MHMFlLnE1U4EMw.webp)
+![logo of the anime tokyo ghoul, my favorite anime](https://i.namu.wiki/i/wdkE30hwP1AfyOaXh7HyV04janFyW6elSw-byNGdOzX0sYgoZ1L_dgACiRWnPbq3w95GoZC8MHMFlLnE1U4EMw.webp)
