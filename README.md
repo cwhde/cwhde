@@ -1,4 +1,4 @@
-### hi there, i'm julian :)
+# hi there, i'm julian :)
 
 i'm someone who loves to experiment with code, learn new things, and have fun while doing it. i'm currently working on python and c# projects, and learning to use git along the way.
 
